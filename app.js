@@ -7,7 +7,7 @@ const userScorePara = document.querySelector("#user-score");
 const machineScorePara = document.querySelector("#machine-score");
 
 const generateComputerChoice = () => {
-    const options = ["rock", "paper", "scissor"];
+    const options = ["rock", "paper", "scissors"];
     // Math.random always generate value between 0-1, to get the values between 0-2, we have to multiply it by 3
     // we are taking the floor of it to get the whole number only
     let computerChoice = Math.floor(Math.random() * 3);
