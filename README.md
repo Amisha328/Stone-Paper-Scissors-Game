@@ -16,37 +16,11 @@ The winner of the game is decided as per the below rules:
 - [x] Scissors vs Paper -> Scissors wins
 
 
-<h2>ScreenShots</h2>
-
-### 1. Start Game
+<h2>Project Demo:</h2>
 
 <table>
         <tr> 
-        <td><img src = "screenshots/game-start.png"  width="800"></td
-        </tr>
-</table>
-
-### 2. Game Draw
-
-<table>
-        <tr> 
-        <td><img src = "screenshots/game-draw.png" width="800"></td
-        </tr>
-</table>
-
-### 3. Game Lost
-
-<table>
-        <tr> 
-        <td><img src = "screenshots/game-lost.png" width="800"></td>
-        </tr>
-</table>
-
-### 4. Game Win
-
-<table>
-        <tr> 
-        <td><img src = "screenshots/game-win.png"  width="800"></td>
+        <td><img src = "screenshots/stone-paper-scissors.gif"  width="800"></td
         </tr>
 </table>
 
